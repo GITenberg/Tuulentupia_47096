@@ -1,0 +1,29 @@
+_repo: Tuulentupia_47096
+contributor:
+  translator:
+    agent_name: Kivilinna, Olli
+    gutenberg_agent_id: '44131'
+    url: http://www.gutenberg.org/2009/agents/44131
+creator:
+  author:
+    agent_name: Conrad, Joseph
+    aliases:
+    - Korzeniowski, Joseph Conrad Theodore
+    - Korzeniowski, Józef Konrad Teodor
+    - Korzeniowski, Jozef Konrad Teodor
+    birthdate: 1857
+    deathdate: 1924
+    gutenberg_agent_id: '125'
+    url: http://www.gutenberg.org/2009/agents/125
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
+description: ''
+gutenberg_issued: '2014-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47096'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Tuulentupia
+url: http://www.gutenberg.org/ebooks/47096
