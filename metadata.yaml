@@ -1,9 +1,13 @@
 _repo: Tuulentupia_47096
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Kivilinna, Olli
     gutenberg_agent_id: '44131'
     url: http://www.gutenberg.org/2009/agents/44131
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Conrad, Joseph
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/125
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47096#Tuulentupia
 gutenberg_issued: '2014-10-12'
 gutenberg_type: Text
 identifiers:
